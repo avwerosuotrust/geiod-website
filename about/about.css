@@ -173,35 +173,35 @@ body {
 }
 
 #slide-img1 {
-  background-image: url(/about/about-images/Design01.jpg);
+  background-image: url(../about/about-images/Design01.jpg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #slide-img2 {
-  background-image: url(/about/about-images/BM01.png);
+  background-image: url(../about/about-images/BM01.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #slide-img3 {
-  background-image: url(/about/about-images/BD06.png);
+  background-image: url(../about/about-images/BD06.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #slide-img4 {
-  background-image: url(/about/about-images/BMc03.png);
+  background-image: url(../about/about-images/BMc03.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 #slide-img5 {
-  background-image: url(/about/about-images/VPD02.png);
+  background-image: url(../about/about-images/VPD02.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
